@@ -29,6 +29,9 @@
       ],
       "@test-pronto-two/data-services": [
         "libs/data-services/src/index.ts"
+      ],
+      "@test-pronto-two/data-graphql": [
+        "libs/data-graphql/src/index.ts"
       ]
     }
   },
