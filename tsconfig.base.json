@@ -35,6 +35,9 @@
       ],
       "@test-pronto-two/data-models": [
         "libs/data-models/src/index.ts"
+      ],
+      "@test-pronto-two/common/common-environment": [
+        "libs/common/common-environment/src/index.ts"
       ]
     }
   },
